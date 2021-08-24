@@ -1,0 +1,1 @@
+This is the repo for Shawn and Shannon's Wedding. It will be updated to include a homepage along with pages allowing guests to see photos of the couple, RSVP and view their wedding registry.
